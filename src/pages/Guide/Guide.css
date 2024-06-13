@@ -1,0 +1,8 @@
+.guide{
+    margin: 5%;
+    line-height: 30px;
+}
+
+.guide .api-detail li{
+    padding: 1%;
+}

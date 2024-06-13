@@ -1,0 +1,79 @@
+{
+  "Project": {
+    "0": {
+      "name": "Dreamscape Explorer",
+      "description": "Dreamscape provides users with a platform to record and store their dreams. Users can create accounts, log in, and securely save details about their dreams",
+      "status": "Completed",
+      "Techstack": "React.js ,Node.js ,MongoDB ,Express.js",
+      "Link": "https://github.com/DharshiniR04/Dreamscape_Explorer"
+    },
+    "1": {
+      "name": "Forecast Flow",
+      "description": "Weather App built using React, allowing users to check the current weather conditions for a specific city. It integrates with the OpenWeatherMap API to fetch real-time weather data and displays it in a user-friendly interface.",
+      "status": "Completed",
+      "Techstack": "React.js",
+      "Link": "https://forecast-flow-dharshini.vercel.app/"
+    },
+    "2": {
+      "name": "Git Searcher",
+      "description": "Create a tool that, given a username, retrieves and presents the repositories and project links associated with that user. This tool offers a streamlined way to access and explore a user's projects and contributions within a single interface.",
+      "status": "Completed",
+      "Techstack": "React.js",
+      "Link": "https://git-searcher-black.vercel.app/"
+    },
+    "3": {
+      "name": "Tail Trove",
+      "description": "Tail-Trove is a beginner-friendly e-commerce project built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project aims to provide a foundational understanding of building a basic pet e-commerce website with essential functionalities.",
+      "status": "Completed",
+      "Techstack": "React.js ,Node.js ,MongoDB ,Express.js",
+      "Link": "https://github.com/DharshiniR04/Tail-Trove"
+    }
+  },
+  "Techstack": {
+    "0": {
+      "name": "React.js",
+      "project": "Dreamscape Explorer , Forecast Flow , Tail trove , Github Explorer",
+      "proficiency": "60%"
+    },
+    "1": {
+      "name": "Node.js",
+      "project": "Dreamscape Explorer , Tail trove",
+      "proficiency": "40%"
+    },
+    "2": {
+      "name": "MongoDB",
+      "project": "Dreamscape Explorer , Tail trove",
+      "proficiency": "40%"
+    },
+    "3": {
+      "name": "Html & CSS",
+      "project": "BurgerKing-Replica , Respite Resort , BMI Calculator",
+      "proficiency": "80%"
+    },
+    "4": {
+      "name": "Java",
+      "project": "Solved 130+ java programs in Leetcode",
+      "proficiency": "70%"
+    }
+  },
+  "Achievements": {
+    "0": {
+      "data": "Participated in Global IEEE Xtreme 17.0 and secured 515-th rank in India "
+    },
+    "1": {
+      "data": "Solved 200+ programs in Leetcode"
+    },
+    "2": {
+      "data": "Solved 1350+ programs in Skillrack"
+    }
+  },
+  "Profile": {
+    "0": {
+      "profile": "Hello , Everyone! . I am Dharshini ,  Diligent, ambitious and a modest Computer Science student. Eager to learn and excited about expanding knowledge and contributing to technology advancements. Passionate about full-stack development, particularly enamored with React.js. Excited to explore and master new technology. Seeking challenging opportunities to expand skills and drive innovation.",
+      "github":"https://github.com/DharshiniR04/",
+      "leetcode":"https://leetcode.com/u/Dharshini04/",
+      "skillrack":"Skillrack",
+      "linkedin":"https://www.linkedin.com/in/dharshini-r-20b443282"
+    }
+  }
+}
