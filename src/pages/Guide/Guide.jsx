@@ -8,7 +8,7 @@ function Guide() {
             <h3>Step-by-Step Guide:</h3>
             <div className="api-detail">
                 <li>Go to Workspace</li>
-                <li>Enter the api url "http://api.dharshini.com/v1/" on the search bar manually or copy it from the clipboard from the workspace on the top right corner and paste it on the serachbar </li>
+                <li>Enter the api url "http://api.dharshini.com/v1/" on the search bar manually or copy it from the clipboard from the workspace on the top right corner and paste it on the searchbar </li>
                 <li>Now type the endpoint of your like</li>
                 <li>Enter the Send key to get the Result from the endpoint</li>
             </div>
